@@ -11,17 +11,14 @@ redirect_from:
 
 
 ## Education
-2020-2023, Shanghai Normal University, China
+Shanghai Normal University, Forein Languages College, China
+  *Ph.D, Foreign Linguistics and Applied Linguistics*                                                                    June 2027(expected)
 
-* Degree: Master of Art in Foreign Linguistics and Applied Linguistics
-* GPA: 3.10/4.00; 84.16/100
-* Major Courses: Corpus Linguistics, Discourse Research, Pragmatics
+Shanghai Normal University, Forein Languages College, China
+  *M.A., Foreign Linguistics and Applied Linguistics*                                                                              June 2023
 
-2015-2019, Wenzhou Medical University, China
-
-* Degree: Bachelor of Art in English Literature
-* GPA: 4.05/5.00; 85.53/100
-* Major Courses: General Linguistics, Language Assessing, Academic Writing
+Wenzhou Medical University, Forein Languages College, China
+  *B.A., Bachelor of Art in English Literature*                                                                                    June 2019
 
 ## Grants, honors & awards
 * 2022 China National Scholarship (The central government of China, ¥ 20,000)
