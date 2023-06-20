@@ -15,7 +15,7 @@ Zhejiang University, School of International Studies, China
   *Ph.D, Foreign Linguistics and Applied Linguistics* <p align="right">June 2027(expected)</p>                                       
 
 Shanghai Normal University, Forein Languages College, China   
-  *M.A., Foreign Linguistics and Applied Linguistics* <p align="right">June 2023(expected)</p>
+  *M.A., Foreign Linguistics and Applied Linguistics* <p align="right">June 2023</p>
   
 Wenzhou Medical University, Forein Languages College, China  
   *B.A., Bachelor of Art in English Literature* <p align="right">June 2019</p>                                              
