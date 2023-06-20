@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 Shanghai Normal University, Forein Languages College, China  
-  *Ph.D, Foreign Linguistics and Applied Linguistics*                                                                    June 2027(expected)
+  *Ph.D, Foreign Linguistics and Applied Linguistics* <p align="right">June 2027(expected)</p>                                       
 
 Shanghai Normal University, Forein Languages College, China  
   *M.A., Foreign Linguistics and Applied Linguistics*                                                                              June 2023
