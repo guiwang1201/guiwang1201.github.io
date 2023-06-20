@@ -11,13 +11,13 @@ redirect_from:
 
 
 ## Education
-Shanghai Normal University, Forein Languages College, China
+Shanghai Normal University, Forein Languages College, China  
   *Ph.D, Foreign Linguistics and Applied Linguistics*                                                                    June 2027(expected)
 
-Shanghai Normal University, Forein Languages College, China
+Shanghai Normal University, Forein Languages College, China  
   *M.A., Foreign Linguistics and Applied Linguistics*                                                                              June 2023
 
-Wenzhou Medical University, Forein Languages College, China
+Wenzhou Medical University, Forein Languages College, China  
   *B.A., Bachelor of Art in English Literature*                                                                                    June 2019
 
 ## Grants, honors & awards
