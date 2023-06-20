@@ -13,7 +13,7 @@ School of International Studies
 Zhejinag University  
 Hangzhou, 310058, China  
 Email: guiwang1201@gmail.com  
-Google Scholar: https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en
+Google Scholar: [Website](https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en)
 
 ## Statement
 I am currently a PhD candidate at Zhejiang University. My research focuses on corpus linguistics, second language acquisition, and cognitive linguistic. I am hoping to find a postdoctoral program to promote my research ability further and establish a solid foundation for research.
