@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Gui Wang's acadamic records on the web!
+This is Gui Wang's acadamic records on the web😊
