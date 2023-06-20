@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-## Gui Wang MSc
-Foreign Languages College
-Shanghai Normal University
-Shanghai, 200030, China
-Email: guiwang1201@gmail.com
+## Gui Wang PhDc
+School of International Studies    
+Zhejinag University  
+Hangzhou, 310058, China  
+Email: guiwang1201@gmail.com  
 Google Scholar: https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en
 
 ## Statement
@@ -20,8 +20,8 @@ I am currently a PhD candidate at Zhejiang University. My research focuses on co
 
 ## Education
 Zhejiang University, School of International Studies, China  
-  *Ph.D, Foreign Linguistics and Applied Linguistics* <p align="right">June 2027 (expected)</p>                                       
-
+*Ph.D, Foreign Linguistics and Applied Linguistics* <span style="float: right;">June 2027 (expected)</span>
+                                      
 Shanghai Normal University, Forein Languages College, China   
   *M.A., Foreign Linguistics and Applied Linguistics* <p align="right">June 2023</p>
   
