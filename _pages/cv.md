@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Education
-Zhejiang University, School of International Studies, China 
+Zhejiang University, School of International Studies, China  
   *Ph.D, Foreign Linguistics and Applied Linguistics* <p align="right">June 2027 (expected)</p>                                       
 
 Shanghai Normal University, Forein Languages College, China   
