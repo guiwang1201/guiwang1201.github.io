@@ -23,11 +23,11 @@ Zhejiang University, School of International Studies, China
 *Ph.D, Foreign Linguistics and Applied Linguistics* <span style="float: right;">June 2027 (expected)</span>
                                       
 Shanghai Normal University, Forein Languages College, China   
-  *M.A., Foreign Linguistics and Applied Linguistics* <p align="right">June 2023</p>
+*M.A., Foreign Linguistics and Applied Linguistics* <span style="float: right;">June 2023</span>
   
 Wenzhou Medical University, Forein Languages College, China  
-  *B.A., Bachelor of Art in English Literature* <p align="right">June 2019</p>                                              
-
+*B.A., Bachelor of Art in English Literature* <span style="float: right;">June 2019</span>
+                                          
 ## Grants, honors & awards
 * 2022 China National Scholarship (The central government of China, ¥ 20,000)
 * 2021 Excellent Postgraduate Scholarship (Shanghai Normal University, ¥ 3,200)
