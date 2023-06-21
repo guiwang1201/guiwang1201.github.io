@@ -6,7 +6,7 @@ excerpt: 'This study intends to describe the diachronic changes of linguistic co
 date: 2022-10-04
 venue: 'Scientometrics'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Wang, G., Wang, H., Sun, X., Wang, N., & Wang, L. (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. Scientometrics, 128(1), 441–460. https://doi.org/10.1007/s11192-022-04550-z'
+citation: 'Wang, G., Wang, H., Sun, X., Wang, N., & Wang, L. (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *Scientometrics,* 128(1), 441–460. https://doi.org/10.1007/s11192-022-04550-z'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
