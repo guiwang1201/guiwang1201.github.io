@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Wang, G., Wang, H., & Wang, L. (2022a). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. Journal of Hospitality and Tourism Insights, 6(2), 509–529. https://doi.org/10.1108/jhti-09-2021-0260
