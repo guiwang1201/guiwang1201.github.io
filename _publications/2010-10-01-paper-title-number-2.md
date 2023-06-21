@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Based on 774 argumentative writings produced by Chinese English as a foreign language (EFL) learners, this study examined the extent to which Kolmogorov complexity metrics can distinguish the proficiency levels of beginner, lower-intermediate, and upper-intermediate second language (L2) English learners. Kolmogorov complexity metric is a holistic informationtheoretic approach, which measures three facets of linguistic complexity, i.e., overall, syntactic, and morphological complexity simultaneously. To assess its validity in distinguishing L2 proficiency, Kolmogorov complexity metric is compared with traditional syntactic and morphological complexity metrics
+as well as fine-grained syntactic complexity metrics. Results showed that Kolmogorov overall and syntactic complexity could significantly distinguish any adjacent pair of L2 levels, serving as the best separators explored in the present study. Neither Kolmogorov morphological complexity nor other complexity metrics at both the syntactic and morphological levels can distinguish between all pairs of adjacent levels. Results of correlation analysis showed that Kolmogorov syntactic complexity was not or weakly correlated with all the fine-grained syntactic complexity metrics, indicating that they may address distinct linguistic features and can complement each other to better predict different proficiency levels.'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Wang, G., Wang, H., & Wang, L. (2022b). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *Frontiers in Psychology*, 13. https://doi.org/10.3389/fpsyg.2022.1024147'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Wang, G., Wang, H., & Wang, L. (2022b). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *Frontiers in Psychology*, 13. https://doi.org/10.3389/fpsyg.2022.1024147
