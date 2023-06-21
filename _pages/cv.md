@@ -26,7 +26,7 @@ Shanghai Normal University, Forein Languages College, China
 *M.A., Foreign Linguistics and Applied Linguistics* <span style="float: right;">June 2023</span>
   
 Wenzhou Medical University, Forein Languages College, China  
-*B.A., Bachelor of Art in English Literature* <span style="float: right;">June 2019</span>
+*B.A., English* <span style="float: right;">June 2019</span>
                                           
 ## Grants, honors & awards
 * 2022 China National Scholarship (The central government of China, ¥ 20,000)
