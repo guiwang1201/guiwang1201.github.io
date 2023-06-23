@@ -85,10 +85,10 @@ author:
   bio              : "PhD candidate in Corpus Linguistics at Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=zh-CN"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Gui-Wang-4"
+  email            : "guiwang1201@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Gui-Wang-4"
   uri              :
   bitbucket        :
   codepen          :
