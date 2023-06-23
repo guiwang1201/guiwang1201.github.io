@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Gui Wang's acadamic records on the web😊
+I am currently a PhD candidate at [Zhejiang University]( https://en.wikipedia.org/wiki/Zhejiang_University). My primary research interest includes corpus linguistics, second language acquisition, and cognitive linguistics. 
+
+Feel free to contact me at guiwang1201@gmail.com 😊~
+
