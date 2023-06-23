@@ -11,4 +11,4 @@ This study intends to describe the diachronic changes of linguistic complexity (
 
 [Download paper here](http://guiwang1201.github.io/files/paper3.pdf)
 
-Recommended citation: <b>Wang, G.</b>, Wang, H., Sun, X., Wang, N., & Wang, L. (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. <i>Scientometrics</i>, 128(1), 441–460. https://doi.org/10.1007/s11192-022-04550-z
+Recommended citation: <b>Wang, G.</b>, Wang, H., Sun, X., Wang, N., & Wang, L. (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. <i>Scientometrics</i>, 128(1), 441–460. [https://doi.org/10.1007/s11192-022-04550-z](https://doi.org/10.1007/s11192-022-04550-z)
