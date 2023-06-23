@@ -1,7 +1,7 @@
 ---
 title: "Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-01-13-Research-trends-in-tourism-and-hospitality-from-1991-to-2020
 excerpt: 'This study aims to track the historical development in tourism and hospitality research over the past 30 years by applying a novel interdisciplinary approach, combining both corpus linguistics and bibliometric analysis.'
 date: 2022-01-13
 venue: 'Journal of Hospitality and Tourism Insights'
