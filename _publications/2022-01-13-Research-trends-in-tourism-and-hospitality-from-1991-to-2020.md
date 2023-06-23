@@ -3,7 +3,7 @@ title: "Research trends in tourism and hospitality from 1991 to 2020: an integra
 collection: publications
 permalink: /publication/2022-01-13-Research-trends-in-tourism-and-hospitality-from-1991-to-2020
 excerpt: 'This study aims to track the historical development in tourism and hospitality research over the past 30 years by applying a novel interdisciplinary approach, combining both corpus linguistics and bibliometric analysis.'
-date: 2022-10-04
+date: 2022-01-13
 venue: 'Journal of Tourism and Hospitality insight'
 paperurl: 'http://guiwang1201.github.io/files/paper1.pdf'
 ---
