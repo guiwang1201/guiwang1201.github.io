@@ -11,4 +11,4 @@ This study aims to track the historical development in tourism and hospitality r
 
 [Download paper here](http://guiwang1201.github.io/files/paper1.pdf)
 
-Recommended citation: <b>Wang, G.</b>, Wang, H. & Wang, L. (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. <i>Journal of Tourism and Hospitality insight</i>, 6(2), 509-529. https://doi.org/10.1108/JHTI-09-2021-0260
+Recommended citation: <b>Wang, G.</b>, Wang, H. & Wang, L. (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. <i>Journal of Tourism and Hospitality insight</i>, 6(2), 509-529. [https://doi.org/10.1108/JHTI-09-2021-0260](https://doi.org/10.1108/JHTI-09-2021-0260)
