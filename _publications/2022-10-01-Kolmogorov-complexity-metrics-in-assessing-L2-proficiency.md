@@ -11,4 +11,4 @@ Based on 774 argumentative writings produced by Chinese English as a foreign lan
 
 [Download paper here](http://guiwang1201.github.io/files/paper2.pdf)
 
-Recommended citation: <b>Wang, G.†</b>, Wang, H.†, & Wang, L. (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. <i>Frontiers in Psychology</i>, 13. https://doi.org/10.3389/fpsyg.2022.1024147
+Recommended citation: <b>Wang, G.†</b>, Wang, H.†, & Wang, L. (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. <i>Frontiers in Psychology</i>, 13. [https://doi.org/10.3389/fpsyg.2022.1024147](https://doi.org/10.3389/fpsyg.2022.1024147)
