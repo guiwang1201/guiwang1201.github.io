@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate at [Zhejiang University]( https://en.wikipedia.org/wiki/Zhejiang_University). My primary research interest includes corpus linguistics, second language acquisition, and cognitive linguistics. 
+I am currently a PhD candidate at School of International Studies, [Zhejiang University]( https://en.wikipedia.org/wiki/Zhejiang_University). My primary research interest includes corpus linguistics, second language acquisition, and cognitive linguistics. 
 
 Feel free to contact me at guiwang1201@gmail.com 😊~
 
