@@ -2,9 +2,9 @@
 title: "The 12th Annual Conference of the Professional Committee of Educational Linguistics"
 collection: conferences
 type: "Conference"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2021-05-16-conference
 venue: "Shanghai Jiao Tong University, School of Foreign Lanuages"
-date: 2022-05-16
+date: 2021-05-16
 location: "Shanghai, China"
 ---
 
