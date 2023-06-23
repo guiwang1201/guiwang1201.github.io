@@ -2,7 +2,7 @@
 title: "The 1st International Symposium on Data Science and Second Language Research"
 collection: Conferences
 type: "Conference"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/2022-10-20-conference
 venue: "Ningbo University of Finance & Economics"
 date: 2022-10-20
 location: "Ningbo, China"
