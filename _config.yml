@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-favicon: /assets/favicon.ico #add an icon for my website
+
 
 # SEO Related
 google_site_verification :
@@ -302,12 +302,22 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+#add an icon for my website
+favicon: /assets/favicon.ico
+
+
+
+
+
+
 
 
