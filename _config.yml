@@ -48,6 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+favicon: /assets/favicon.ico #add an icon for my website
 
 # SEO Related
 google_site_verification :
@@ -309,5 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-favicon: /assets/favicon.ico
 
