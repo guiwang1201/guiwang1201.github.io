@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Academic Writing and Publishing in Applied Linguistics"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Postgraduate course"
+date: 2023-07-09
+location: "Online"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this eight lessons, I have introduced some important acadamic journals, the core parts of a acadamic paper in applied linguistics (i.e., introduction, literature review, methodology, results, discussion, and conlusion), the methods and tools used to organize your literatures, some basic notion in corpus linguistics and some notions about how to select and published your ideas in a international journal.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
