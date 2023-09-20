@@ -2,7 +2,6 @@
 title: "Academic Writing and Publishing in Applied Linguistics"
 collection: teaching
 type: "Postgraduate course"
-permalink: /
 venue: "Online"
 date: 2023-07-09
 location: "Online"
