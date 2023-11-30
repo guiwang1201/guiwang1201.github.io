@@ -37,7 +37,7 @@ Wenzhou Medical University, Forein Languages College, China
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
-* Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (upcoming). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *International Journal of Applied Linguistics*.
+* Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (online). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
 
 * **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L.* (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *128*(1). *Scientometrics*. [https://doi.org/10.1007/s11192-022-04550-z](https://doi.org/10.1007/s11192-022-04550-z)
 
