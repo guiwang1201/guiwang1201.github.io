@@ -19,4 +19,4 @@ paperurl: 'http://guiwang1201.github.io/files/tourism_hospitality_bibliometrics_
 
 [Download paper here](http://guiwang1201.github.io/files/speaker-types-L1-backgrounds-linguistic-complexity.pdf)
 
-Recommended citation: Wang, H., <b>Wang, G.</b>, Wang, N., & Wang, L. (2022). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. <i>International Journal of Applied Linguistics</i>. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
+Recommended citation: Wang, H., <b>Wang, G.</b>, Wang, N., & Wang, L. (2023). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. <i>International Journal of Applied Linguistics</i>. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
