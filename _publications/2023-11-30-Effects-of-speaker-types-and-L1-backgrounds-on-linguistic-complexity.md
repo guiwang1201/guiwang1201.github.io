@@ -15,7 +15,7 @@ paperurl: 'http://guiwang1201.github.io/files/speaker-types-L1-backgrounds-lingu
 
 
 
-**Contribution:** Both Li Wang and Hui Wang conceptualized the study. Both Hui Wang and **Gui Wang** designed the methodology and wrote the initial draft of the manuscript. Both Hui Wang, **Gui Wang**, and Nan Wang involved in the data collection. **Gui Wang** was responsible for the primary statistical analysis. Hui Wang played a significant role in refining the study’s design, supervised the data collection process, and provided crucial feedback for data interpretation. Both Hui Wang, **Gui Wang**, Li Wang, and Nan Wang actively reviewed, revised, and contributed to the finalization of the manuscript. 
+**Contribution:** Both Li Wang and Hui Wang conceptualized the study. Both Hui Wang and Gui Wang designed the methodology and wrote the initial draft of the manuscript. Both Hui Wang, Gui Wang, and Nan Wang involved in the data collection. Gui Wang was responsible for the primary statistical analysis. Hui Wang played a significant role in refining the study’s design, supervised the data collection process, and provided crucial feedback for data interpretation. Both Hui Wang, Gui Wang, Li Wang, and Nan Wang actively reviewed, revised, and contributed to the finalization of the manuscript. 
 
 [Download paper here](http://guiwang1201.github.io/files/speaker-types-L1-backgrounds-linguistic-complexity.pdf)
 
