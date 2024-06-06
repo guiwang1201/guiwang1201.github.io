@@ -16,7 +16,7 @@ Email: guiwang1201@gmail.com
 Google Scholar: [https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en](https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en)
 
 ## Statement
-I am currently a PhD candidate at Zhejiang University. My research focuses on corpus linguistics, linguistic variation, semantic change, and cognitive linguistics. I am hoping to find a postdoctoral program to promote my research ability further and establish a solid foundation for research.
+I am currently a PhD candidate at Zhejiang University. My research focuses on corpus linguistics, quantitative linguistics, culturomics, and the intersections of language, culture, and history. I am hoping to find a visiting student position to promote my research ability further and establish a solid foundation for large scale text analysis and quantative social science.
 
 ## Education
 Zhejiang University, School of International Studies, China  
@@ -38,13 +38,22 @@ Wenzhou Medical University, Forein Languages College, China
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
-* Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (online). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
+**In Progress**
+* **Wang, G.** Toward less emotionality and positivity: a large-scale diachronic study in written American English over the past two centuries.
 
+**Published**
 * **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L.* (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *128*(1). *Scientometrics*. [https://doi.org/10.1007/s11192-022-04550-z](https://doi.org/10.1007/s11192-022-04550-z)
 
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *13*. *Frontiers in Psychology*. [https://doi.org/10.3389/fpsyg.2022.1024147](https://doi.org/10.3389/fpsyg.2022.1024147)
 
+* Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (online). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
+
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. *6*(2). *Journal of Hospitality and Tourism Insights*. [https://doi.org/10.1108/jhti-09-2021-0260](https://doi.org/10.1108/jhti-09-2021-0260)
+
+**Under Review**
+* **Wang, G.**, Shu, J., & Wang, L.* Diachronic Changes of Number Use in Written American English from 1923 to 2008. *Language Sciences*
+* **Wang, G.**, Wang, H., & Wang, L.* Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. *TESOL Quarterly*.
+* Hu RT, **Wang, G.**, & Shao, B.* Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. 
 
 ## **Conferences and Forums**
 + **Wang, G.** (2023, October 27). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. Paper presented at *The 10th International Symposium on Second Language Acquisition Research in China*. Shandong, China.
@@ -55,6 +64,7 @@ Wenzhou Medical University, Forein Languages College, China
 Chief investigator (2022/06-2022/11). Project title: A Corpus-based analysis of syntactic complexity measures in the discussion part of the academic writing of Chinese EFL Master Students. Founder: Shanghai Normal University. ¥ 800. 
 
 ## Research Techniques and Skills
-*R* programming, Bibliometric analysis, Excel, Word
+Language: *R* programming, HTML
+Application: spaCy, Bibliometric analysis, sentiment analysis, topic modelling
 
 
