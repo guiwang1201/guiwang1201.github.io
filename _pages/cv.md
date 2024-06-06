@@ -39,7 +39,7 @@ Wenzhou Medical University, Forein Languages College, China
 
 ## Publications
 **In Progress**
-* **Wang, G.** Toward less emotionality and positivity: a large-scale diachronic study in written American English over the past two centuries.
+* **Wang, G.**, Chen, ZN., Shao, B. Toward less emotionality and positivity: a large-scale diachronic study in written American English over the past two centuries.
 
 **Published**
 * **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L.* (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *128*(1). *Scientometrics*. [https://doi.org/10.1007/s11192-022-04550-z](https://doi.org/10.1007/s11192-022-04550-z)
@@ -51,8 +51,8 @@ Wenzhou Medical University, Forein Languages College, China
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. *6*(2). *Journal of Hospitality and Tourism Insights*. [https://doi.org/10.1108/jhti-09-2021-0260](https://doi.org/10.1108/jhti-09-2021-0260)
 
 **Under Review**
-* **Wang, G.**, Shu, J., & Wang, L.* Diachronic Changes of Number Use in Written American English from 1923 to 2008. *Language Sciences*
-* **Wang, G.**, Wang, H., & Wang, L.* Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. *TESOL Quarterly*.
+* **Wang, G.**, Shu, J., & Wang, L.* Diachronic Changes of Number Use in Written American English from 1923 to 2008. 
+* **Wang, G.**, Wang, H., & Wang, L.* Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. 
 * Hu RT, **Wang, G.**, & Shao, B.* Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. 
 
 ## **Conferences and Forums**
@@ -64,7 +64,7 @@ Wenzhou Medical University, Forein Languages College, China
 Chief investigator (2022/06-2022/11). Project title: A Corpus-based analysis of syntactic complexity measures in the discussion part of the academic writing of Chinese EFL Master Students. Founder: Shanghai Normal University. ¥ 800. 
 
 ## Research Techniques and Skills
-Language: *R* programming, HTML
-Application: spaCy, Bibliometric analysis, sentiment analysis, topic modelling
+* Language: *R* programming (tidyverse, tidymodel, quanteda, tidytext, word2vec, tm), HTML
+* Application: spaCy, Bibliometric analysis, sentiment analysis, topic modelling
 
 
