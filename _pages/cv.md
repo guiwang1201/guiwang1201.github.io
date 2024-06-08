@@ -38,10 +38,6 @@ Wenzhou Medical University, Forein Languages College, China
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
-**In Progress**
-* **Wang, G.**, Chen, ZN., Shao, B. Toward less emotionality and positivity: a large-scale diachronic study in written American English over the past two centuries.
-
-**Published**
 * **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L.* (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *128*(1). *Scientometrics*. [https://doi.org/10.1007/s11192-022-04550-z](https://doi.org/10.1007/s11192-022-04550-z)
 
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *13*. *Frontiers in Psychology*. [https://doi.org/10.3389/fpsyg.2022.1024147](https://doi.org/10.3389/fpsyg.2022.1024147)
@@ -49,11 +45,6 @@ Wenzhou Medical University, Forein Languages College, China
 * Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (online). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
 
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. *6*(2). *Journal of Hospitality and Tourism Insights*. [https://doi.org/10.1108/jhti-09-2021-0260](https://doi.org/10.1108/jhti-09-2021-0260)
-
-**Under Review**
-* **Wang, G.**, Shu, J., & Wang, L.* Diachronic Changes of Number Use in Written American English from 1923 to 2008. 
-* **Wang, G.**, Wang, H., & Wang, L.* Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. 
-* Hu RT, **Wang, G.**, & Shao, B.* Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. 
 
 ## **Conferences and Forums**
 + **Wang, G.** (2023, October 27). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. Paper presented at *The 10th International Symposium on Second Language Acquisition Research in China*. Shandong, China.
