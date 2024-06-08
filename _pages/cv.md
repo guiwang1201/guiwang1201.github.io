@@ -38,6 +38,8 @@ Wenzhou Medical University, Forein Languages College, China
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
+* **Wang, G.**, Shu, J., & Wang, L.* (forthcoming). Diachronic Changes of Number Use in Written American English from 1923 to 2008. *Language Sciences*.
+
 * **Wang, G.**, Wang, H., Sun XY., Wang, N., & Wang, L.* (2022). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. *128*(1). *Scientometrics*. [https://doi.org/10.1007/s11192-022-04550-z](https://doi.org/10.1007/s11192-022-04550-z)
 
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *13*. *Frontiers in Psychology*. [https://doi.org/10.3389/fpsyg.2022.1024147](https://doi.org/10.3389/fpsyg.2022.1024147)
