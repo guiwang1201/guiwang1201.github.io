@@ -16,7 +16,7 @@ Email: guiwang1201@gmail.com
 Google Scholar: [https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en](https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en)
 
 ## Statement
-I am currently a PhD candidate at Zhejiang University. My research focuses on corpus linguistics, quantitative linguistics, culturomics, and the intersections of language, culture, and history. I am hoping to find a visiting student position to promote my research ability further and establish a solid foundation for large scale text analysis and quantitative social science.
+I am currently a PhD candidate at Zhejiang University. My research focuses on corpus linguistics, quantitative linguistics, culturomics, and the intersections of language, culture, and history. I am hoping to find a visiting scholar position to promote my research ability further and establish a solid foundation for large scale text analysis and quantitative social science.
 
 ## Education
 Zhejiang University, School of International Studies, China  
