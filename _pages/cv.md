@@ -44,7 +44,7 @@ Wenzhou Medical University, Foreign Languages College, China
 
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. *13*. *Frontiers in Psychology*. [https://doi.org/10.3389/fpsyg.2022.1024147](https://doi.org/10.3389/fpsyg.2022.1024147)
 
-* Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (2024). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
+* Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (2024). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *34*(2). *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
 
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. *6*(2). *Journal of Hospitality and Tourism Insights*. [https://doi.org/10.1108/jhti-09-2021-0260](https://doi.org/10.1108/jhti-09-2021-0260)
 
