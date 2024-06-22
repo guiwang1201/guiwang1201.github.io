@@ -58,6 +58,6 @@ Chief investigator (2022/06-2022/11). Project title: A Corpus-based analysis of 
 
 ## Research Techniques and Skills
 * Language: *R* programming (tidyverse, tidymodels, quanteda, tidytext, word2vec, tm), HTML
-* Application: spaCy, Bibliometric analysis, sentiment analysis, topic modelling
+* Application: spaCy, Bibliometric analysis, sentiment analysis, topic modelling, individual-based models
 
 
