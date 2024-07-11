@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in School of International Studies, [Zhejiang University]( https://en.wikipedia.org/wiki/Zhejiang_University). My primary research interests include corpus linguistics, culturomics, computational social science, and the intersections of language, culture, and history. 
+I am currently a PhD candidate in the School of International Studies, [Zhejiang University]( https://en.wikipedia.org/wiki/Zhejiang_University). My primary research interests include corpus linguistics, culturomics, computational semantic change, and the intersections of language, culture, and history. 
 
 Feel free to contact me at guiwang1201@gmail.com 😊
 
