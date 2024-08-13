@@ -21,6 +21,9 @@ I am currently a PhD candidate at Zhejiang University. My research focuses on co
 ## Education
 Zhejiang University, School of International Studies, China  
 *Ph.D, Foreign Linguistics and Applied Linguistics* <span style="float: right;">June 2027 (expected)</span>
+
+KU Leuven, Faculty of Arts, Belgium  
+*Visiting Ph.D student, Corpus Linguistics* <span style="float: right;">September 2025 (expected)</span>
                                       
 Shanghai Normal University, Foreign Languages College, China   
 *M.A., Foreign Linguistics and Applied Linguistics* <span style="float: right;">June 2023</span>
