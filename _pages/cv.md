@@ -32,6 +32,7 @@ Wenzhou Medical University, Foreign Languages College, China
 *B.A., English* <span style="float: right;">June 2019</span>
                                           
 ## Grants, honors & awards
+* 2024 China Scholarship Council (CSC) Scholarship
 * 2023 Outstanding Graduate (Shanghai)
 * 2022 China National Scholarship (The central government of China, ¥ 20,000)
 * 2021 Excellent Postgraduate Scholarship (Shanghai Normal University, ¥ 3,200)
