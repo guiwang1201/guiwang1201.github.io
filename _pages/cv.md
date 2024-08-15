@@ -43,7 +43,7 @@ Wenzhou Medical University, Foreign Languages College, China
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
-* **Wang, G.**, Wang, H., & Wang, L.* (2024) Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. *TESOL Quarterly*.
+* **Wang, G.**, Wang, H., & Wang, L.* (2024). Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. *TESOL Quarterly*.
 
 * **Wang, G.**, Shu, J., & Wang, L.* (2024). Diachronic Changes of Number Use in Written American English from 1923 to 2008. *Language Sciences*. [https://doi.org/10.1016/j.langsci.2024.101656](https://doi.org/10.1016/j.langsci.2024.101656)
 
