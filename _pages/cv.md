@@ -69,7 +69,7 @@ Wenzhou Medical University, Foreign Languages College, China
 Chief investigator (2022/06-2022/11). Project title: A Corpus-based analysis of syntactic complexity measures in the discussion part of the academic writing of Chinese EFL Master Students. Founder: Shanghai Normal University. ¥ 800. 
 
 ## Research Techniques and Skills
-* Language: *R* programming (tidyverse, tidymodels, quanteda, tidytext, word2vec, tm), HTML
-* Application: spaCy, Bibliometric analysis, sentiment analysis, topic modelling, individual-based models
+* Language: *R* programming (tidyverse, tidymodels, quanteda, tidytext, word2vec, tm), HTML, Py (learning🥸)
+* Application: spaCy, Bibliometric analysis, sentiment analysis, topic modelling, individual-based models, word embedding
 
 
