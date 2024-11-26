@@ -43,7 +43,7 @@ Wenzhou Medical University, Foreign Languages College, China
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
-* Hu, RT., **Wang, G.**, & Shao, B.* (Accepted). Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. *Digital Scholarship in the Humanities*.
+* Hu, RT., **Wang, G.**, & Shao, B.* (2024). Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. *Digital Scholarship in the Humanities*. [https://doi.org/10.1093/llc/fqae074](https://doi.org/10.1093/llc/fqae074)
 
 * **Wang, G.**, Wang, H., & Wang, L.* (2024). Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. *TESOL Quarterly*. [https://doi.org/10.1002/tesq.3351](https://doi.org/10.1002/tesq.3351)
 
