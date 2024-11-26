@@ -43,13 +43,13 @@ Wenzhou Medical University, Foreign Languages College, China
 * 2017 Outstanding Student Scholarship (Wenzhou Medical University, ¥ 1,000)
 
 ## Publications
-* Hu, RT., **Wang, G.**, & Shao, B.* (2024). Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. *Digital Scholarship in the Humanities*. [https://doi.org/10.1093/llc/fqae074](https://doi.org/10.1093/llc/fqae074)
-
-* Shu, Jin, **Wang, G.**, & Xu, Caihua.* (accepted). An exploration of CFL learners' metaphor use in second language writing: Effects of genre and topic. *Journal of Second Language Writing*. 
-
 * **Wang, G.**, Wang, H., & Wang, L.* (2024). Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. *TESOL Quarterly*. [https://doi.org/10.1002/tesq.3351](https://doi.org/10.1002/tesq.3351)
 
 * **Wang, G.**, Shu, J., & Wang, L.* (2024). Diachronic Changes of Number Use in Written American English from 1923 to 2008. *Language Sciences*. [https://doi.org/10.1016/j.langsci.2024.101656](https://doi.org/10.1016/j.langsci.2024.101656)
+
+* Hu, RT., **Wang, G.**, & Shao, B.* (2024). Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. *Digital Scholarship in the Humanities*. [https://doi.org/10.1093/llc/fqae074](https://doi.org/10.1093/llc/fqae074)
+
+* Shu, Jin, **Wang, G.**, & Xu, Caihua.* (2024). An exploration of CFL learners' metaphor use in second language writing: Effects of genre and topic. *Journal of Second Language Writing*. 
 
 * Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (2024). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *34*(2). *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
 
