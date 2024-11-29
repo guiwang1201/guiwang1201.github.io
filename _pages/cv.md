@@ -49,7 +49,7 @@ Wenzhou Medical University, Foreign Languages College, China
 
 * Hu, RT., **Wang, G.**, & Shao, B.* (2024). Translator attribution of Hongloumeng: Using entropy-based features and machining learning algorithm. *Digital Scholarship in the Humanities*. [https://doi.org/10.1093/llc/fqae074](https://doi.org/10.1093/llc/fqae074)
 
-* Shu, Jin, **Wang, G.**, & Xu, Caihua.* (2024). An exploration of CFL learners' metaphor use in second language writing: Effects of genre and topic. *Journal of Second Language Writing*. 
+* Shu, Jin, **Wang, G.**, & Xu, Caihua.* (2024). An exploration of CFL learners' metaphor use in second language writing: Effects of genre and topic. *Journal of Second Language Writing*. [https://doi.org/10.1016/j.jslw.2024.101162](https://10.1016/j.jslw.2024.101162)
 
 * Wang, H., **Wang, G.**, Wang, N., & Wang, L.* (2024). Effects of speaker types and L1 backgrounds on the linguistic complexity of learners’ writing. *34*(2). *International Journal of Applied Linguistics*. [https://doi.org/10.1111/ijal.12526](https://doi.org/10.1111/ijal.12526)
 
