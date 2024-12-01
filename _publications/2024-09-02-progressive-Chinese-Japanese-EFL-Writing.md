@@ -5,7 +5,7 @@ permalink: /publication/2024-09-02-progressive-Chinese-Japanese-EFL-Writing
 excerpt: ''
 date: 2024-09-02
 venue: 'TESOL Quarterly (SSCI)'
-paperurl: 'http://guiwang1201.github.io/files/2024_Gui_TQ _Progressive in Chinese and Japanese EFL Writing.pdf'
+paperurl: 'http://guiwang1201.github.io/files/2024_Gui_TQ_Progressive-Chinese-Japanese-EFL-Writing.pdf'
 
 ---
 
