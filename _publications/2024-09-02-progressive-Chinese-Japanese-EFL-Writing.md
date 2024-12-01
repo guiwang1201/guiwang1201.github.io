@@ -19,6 +19,6 @@ paperurl: 'http://guiwang1201.github.io/files/2024_Gui_TQ _Progressive in Chines
 
 **Contribution:** Gui Wang: Writing – review & editing, Writing – original draft, Visualization, Supervision, Methodology, Formal analysis, Data curation, Conceptualization. Hui Wang: review & editing, Methodology. Li Wang: Writing – review & editing, Supervision, Conceptualization. 
 
-[Download paper here](http://guiwang1201.github.io/files/2024_Gui_TQ _Progressive in Chinese and Japanese EFL Writing.pdf)
+[Download paper here](http://guiwang1201.github.io/files/2024_Gui_TQ_Progressive-Chinese-Japanese-EFL-Writing.pdf)
 
 Recommended citation: <b>Wang, G.</b>, Wang, H., & Wang, L. (2024). Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach. <i>TESOL Quarterly</i>. [https://doi.org/10.1002/tesq.3351](https://doi.org/10.1002/tesq.3351)
