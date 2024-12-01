@@ -17,7 +17,7 @@ Google Scholar: [https://scholar.google.com/citations?user=LuPi_SoAAAAJ&hl=en](h
 ResearchGate: [https://www.researchgate.net/profile/Gui-Wang-4](https://www.researchgate.net/profile/Gui-Wang-4)
 
 ## Statement
-I am currently a PhD candidate at Zhejiang University. My research focuses on corpus linguistics, computational semantic change, culturomics, and the intersections of language, culture, and history. I am hoping to find a postdoctoral position to promote my research ability further and establish a solid foundation for large scale text analysis and quantitative social science.
+I am currently a PhD candidate at Zhejiang University. My research focuses on corpus linguistics, computational semantic change, culturomics, and the intersections of language, culture, and history. 
 
 ## Education
 Zhejiang University, School of International Studies, China  
