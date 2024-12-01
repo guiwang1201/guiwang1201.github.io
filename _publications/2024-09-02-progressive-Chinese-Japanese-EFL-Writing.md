@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Development of Progressive Construction in Chinese and Japanese EFL Writing: A Usage-Based Approach"
 collection: publications
-permalink: /publication/2024-06-21-Diachronic-changes-of-number-use-in-written-American-English-from-1923-to-2008
+permalink: /publication/2024-09-02-progressive-Chinese-Japanese-EFL-Writing
 excerpt: ''
 date: 2024-09-02
 venue: 'TESOL Quarterly (SSCI)'
