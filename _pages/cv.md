@@ -60,7 +60,7 @@ Wenzhou Medical University, Foreign Languages College, China
 * **Wang, G.**, Wang, H., & Wang, L.* (2022). Research trends in tourism and hospitality from 1991 to 2020: an integrated approach of corpus linguistics and bibliometrics. *6*(2). *Journal of Hospitality and Tourism Insights*. [https://doi.org/10.1108/jhti-09-2021-0260](https://doi.org/10.1108/jhti-09-2021-0260)
   
 ## **Conferences and Forums**
-+ **Wang, G.** (2025, accepted). . Paper presented at *the Workshop on Diachronic Variation and Change at DGFS 2025*. Johannes Gutenberg University Mainz, Mainz, Germany.
++ **Wang, G.** (2025, March 07). The evolution of verb/noun heterosemy in English: A large-scale diachronic study across the past two centuries. Paper presented at *the Workshop on Diachronic Variation and Change at DGFS 2025*. Johannes Gutenberg University Mainz, Mainz, Germany.
 + **Wang, G.** (2023, October 27). Kolmogorov complexity metrics in assessing L2 proficiency: An information-theoretic approach. Paper presented at *The 10th International Symposium on Second Language Acquisition Research in China*. Shandong, China.
 + **Wang, G.** (2022, November 20). Linguistic complexity in scientific writing: A large-scale diachronic study from 1821 to 1920. Paper presented at *The 1st International Symposium on Data Science and Second Language Research*. Ningbo, China.
 + **Wang, G.** (2021, May 16). Research trends in tourism and hospitality from 1991 to 2020: An integrated approach of corpus linguistics and bibliometrics. Paper presented at *The 12th Annual Conference of the Professional Committee of Educational Linguistics*, Shanghai Jiao Tong University. Shanghai, China.
